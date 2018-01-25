@@ -62,7 +62,7 @@ namespace PlinkoAsBinaryTree
     {
         static void Main(string[] args)
         {
-            //initial commit
+            
         }
     }
 }
